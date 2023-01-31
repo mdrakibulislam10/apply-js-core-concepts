@@ -22,4 +22,4 @@ const dadaFeet = inchToFeet(dadaInch);
 
 const nanaInch = 168;
 const nanaFeet = inchToFeet(nanaInch);
-console.log("nana feet", nanaFeet);
+console.log("nana Feet", nanaFeet);
