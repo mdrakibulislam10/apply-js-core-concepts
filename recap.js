@@ -41,7 +41,7 @@ function isMoonUp(time) {
 
 // 6. object
 var jantus = {
-    height: 60,
+    height: 160,
     romanticism: "heavy",
     baperTaka: "borolox",
 };
