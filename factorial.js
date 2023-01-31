@@ -24,5 +24,5 @@ function facto(num) {
     return factoResult;
 };
 
-const factoResult = facto(7);
+const factoResult = facto(9);
 console.log(factoResult);
