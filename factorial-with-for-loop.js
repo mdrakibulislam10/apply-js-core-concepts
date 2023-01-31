@@ -14,7 +14,7 @@ const result = factorial(9);
 // console.log(result);
 
 
-// decrement / reverse |
+// decrement / reverse
 function facto(num) {
     let factoResult = 1;
     for (let i = num; i >= 1; i--) {
@@ -24,5 +24,5 @@ function facto(num) {
     return factoResult;
 };
 
-const factoResult = facto(9);
+const factoResult = facto(7);
 console.log(factoResult);
