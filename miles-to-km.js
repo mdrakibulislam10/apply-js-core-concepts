@@ -5,4 +5,4 @@ function milesToKilometer(miles) {
 
 console.log(milesToKilometer(10));
 
-console.log(milesToKilometer(20));
+console.log(milesToKilometer(30));
