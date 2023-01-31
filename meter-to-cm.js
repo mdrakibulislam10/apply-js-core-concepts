@@ -3,6 +3,6 @@ function meterToCm(meter) {
     return cm;
 };
 
-const meter = 10;
+const meter = 20;
 const cm = meterToCm(meter);
 console.log(cm);
